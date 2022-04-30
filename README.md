@@ -60,7 +60,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Pranay5463/Userge_UB) 
 
-# [Click Here for more](https://theuserge.git.io/deployment)
+> #### [Learn more about deployment](https://theuserge.git.io/deployment)
 
 ## [Plugins](https://github.com/UsergeTeam/Userge-Plugins) 🔌
 
