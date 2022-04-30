@@ -49,7 +49,7 @@
 
 > Special Thanks to all of you !!!.
 
-## [Documentation](https://theuserge.github.io/deployment) 📘
+## [Documentation](https://theuserge.github.io/deployment.html) 📘
 
 
 
